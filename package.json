@@ -1,6 +1,7 @@
 {
   "name": "ripple-anything",
-  "version": "1.0.4",
+  "version": "1.0.7",
+  "repository": "github:alpacachen/ripple-anything.git",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
