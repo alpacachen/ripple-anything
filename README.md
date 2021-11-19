@@ -7,6 +7,8 @@ ripple-anything.js
 
 just like material ui ripple, easy use, all browser supported, TypeScript supported
 
+[play on stackblitz](https://stackblitz.com/edit/react-ts-ra5t32?file=index.tsx)
+
 #### Usage ####
 
 html
